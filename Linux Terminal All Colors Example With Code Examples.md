@@ -1,0 +1,20 @@
+echo -e "
+\e[0mText Reset\e[0m 	\e[0;36mCyan\e[0m 		\e[4;30mBlack\e[0m
+\e[0;30mBlack\e[0m 		\e[0;37mWhite\e[0m 		\e[4;31mRed\e[0m
+\e[0;31mRed\e[0m 		\e[1;30mBlack\e[0m 		\e[4;32mGreen\e[0m
+\e[0;32mGreen\e[0m 		\e[1;31mRed\e[0m 		\e[4;33mYellow\e[0m
+\e[0;33mYellow\e[0m 	\e[1;32mGreen\e[0m 		\e[4;34mBlue\e[0m
+\e[0;34mBlue\e[0m 		\e[1;33mYellow\e[0m 	\e[4;35mPurple\e[0m
+\e[0;35mPurple\e[0m  	\e[1;34mBlue\e[0m 		\e[4;36mCyan\e[0m
+\e[42mGreen\e[0m 		\e[0;94mBlue\e[0m 		\e[1;96mCyan\e[0m
+\e[43mYellow\e[0m 		\e[0;95mPurple\e[0m 	\e[1;97mWhite\e[0m
+\e[44mBlue\e[0m 		\e[0;96mCyan\e[0m 		\e[0;100mBlack\e[0m
+\e[45mPurple\e[0m 		\e[0;97mWhite\e[0m 		\e[0;101mRed\e[0m
+\e[46mCyan\e[0m 		\e[1;90mBlack\e[0m 		\e[0;102mGreen\e[0m
+\e[47mWhite\e[0m 		\e[1;91mRed\e[0m 		\e[0;103mYellow\e[0m
+\e[0;90mBlack\e[0m 		\e[1;92mGreen\e[0m 		\e[0;104mBlue\e[0m
+\e[0;91mRed\e[0m 		\e[1;93mYellow\e[0m 	\e[0;105mPurple\e[0m
+\e[0;92mGreen\e[0m 		\e[1;94mBlue\e[0m 		\e[0;106mCyan\e[0m
+\e[0;93mYellow\e[0m  	\e[1;95mPurple\e[0m 	\e[0;107mWhite\e[0m
+\e[1;35mPurple\e[0m 	\e[4;37mWhite\e[0m 		\e[41mRed\e[0m
+\e[1;36mCyan\e[0m 		\e[40mBlack\e[0m 		\e[1;37mWhite\e[0m
